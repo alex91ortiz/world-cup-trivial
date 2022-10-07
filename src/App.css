@@ -1,0 +1,337 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+html {
+  font-family: sans-serif;
+  scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(100vh);
+  scroll-snap-type: y mandatory;
+}
+
+section {
+  border-bottom: 1px solid white;
+  background: #7F1431;
+  padding: 1rem;
+  height: 100vh;
+  scroll-snap-align: start;
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: rgb(20, 20, 20);
+  width: 100%;
+  left: 0;
+  font-size: calc(1rem + 3vw);
+}
+
+
+
+.wrapper {
+  margin: 2rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+  justify-content: center;
+}
+
+.card {
+  box-shadow: 0 0 1px 5px #f8eede;
+  border-radius: 0.2rem;
+  
+  background: #f8eede;
+  display: flex;
+  font-size: 13px;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+.card__img {
+  width: 14rem;
+  height: 11rem;
+  object-fit: cover;
+}
+
+.card__body {
+  margin: 1rem;
+  flex-grow: 1;
+}
+
+.card__title {
+  line-height: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.card__description {
+  line-height: 1.2rem;
+}
+
+.card__sing {
+  line-height: 26.2rem;
+}
+
+.card__btn {
+  border: none;
+  border-top: 1px solid #7F1431;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: bold;
+  color: inherit;
+  width: 100%;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.card__btn:hover {
+  color: #7F1431;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .card {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+  .card label {
+    width: 100px;
+    height: 60px !important;
+    padding: 10px !important;
+    font-size: 16px;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+  }
+
+  .card .group {
+    width: 75px;
+    height: 60px !important;
+    padding: 10px !important;
+    font-size: 12px;
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+  }
+}
+
+
+@media screen and (min-width: 600px) {
+  .wrapper {
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 16rem));
+  }
+
+  .card {
+    flex-direction: column;
+    text-align: center;
+    min-width: 5rem;
+  }
+  .card__img {
+    width: 100%;
+    height: 12rem;
+  }
+}
+
+/** Table **/
+
+#resp-table {
+  width: 100%;
+  display: table;
+}
+
+
+#resp-table-body {
+  display: table-row-group;
+}
+
+.resp-table-row {
+  display: table-row;
+}
+
+.table-body-cell {
+  display: table-cell;
+}
+
+#resp-table-header {
+  display: table-header-group;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.table-header-cell {
+  display: table-cell;
+  padding: 10px;
+  text-align: justify;
+  border-bottom: 1px solid black;
+}
+
+.card input[type="radio"] {
+  display: none;
+}
+
+.card input[type="radio"]:not(:disabled)~label {
+  cursor: pointer;
+}
+
+.card input[type="radio"]:disabled~label {
+  color: hsla(150, 5%, 75%, 1);
+  border-color: hsla(150, 5%, 75%, 1);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+
+.card input[type="checkbox"] {
+  display: none;
+}
+
+.card input[type="checkbox"]:not(:disabled)~label {
+  cursor: pointer;
+}
+
+.card input[type="checkbox"]:disabled~label {
+  color: hsla(150, 5%, 75%, 1);
+  border-color: hsla(150, 5%, 75%, 1);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+
+.card label {
+  
+  display: block;
+  background: #f8eede;
+  border: 2px solid #7F1431;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 2px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-align: center;
+  box-shadow: 0px 3px 10px -2px hsla(150, 5%, 65%, 0.5);
+  position: relative;
+}
+
+.card input[type="radio"]:checked+label {
+  background: #7F1431;
+  color: hsla(215, 0%, 100%, 1);
+  box-shadow: 0px 0px 10px #7F1431;
+
+}
+
+.card input[type="radio"]::after {
+  color: hsla(215, 5%, 25%, 1);
+  font-family: FontAwesome;
+  border: 2px solid #7F1431;
+  content: "\f00c";
+  font-size: 24px;
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0px 2px 5px -2px hsla(0, 0%, 0%, 0.25);
+}
+
+.card input[type="checkbox"]:checked+label {
+  background: #7F1431;
+  color: hsla(215, 0%, 100%, 1);
+  box-shadow: 0px 0px 10px #7F1431;
+
+}
+
+.card input[type="checkbox"]::after {
+  color: hsla(215, 5%, 25%, 1);
+  font-family: FontAwesome;
+  border: 2px solid #7F1431;
+  content: "\f00c";
+  font-size: 24px;
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  background: #f8eede;
+  box-shadow: 0px 2px 5px -2px hsla(0, 0%, 0%, 0.25);
+}
+
+
+.input-contain{
+  position: relative;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  background-color: #f8eede;
+}
+input{
+  height: 5rem;
+  width: 40rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+  background-color: #f8eede;
+}
+input:focus{
+  outline: none;
+  border-color: #7F1431;
+}
+input:focus + .placeholder-text .text, :not(input[value=""]) + .placeholder-text .text{
+  background-color: #f8eede;
+  font-size: 1.1rem;
+  color: black;
+  transform: translate(0, -170%);
+}
+input:focus + .placeholder-text .text{
+  border-color: #7F1431;
+  color: #7F1431;
+}
+.placeholder-text{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 3px solid transparent;
+  background-color: transparent;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+}
+.text{
+  font-size: 1.4rem;
+  padding: 0 0.5rem;
+  background-color: transparent;
+  transform: translate(0);
+  color: black;
+  transition: transform 0.15s ease-out, font-size 0.15s ease-out, background-color 0.2s ease-out, color 0.15s ease-out;
+}
+input, .placeholder-text{
+  font-size: 1.4rem;
+  padding: 0 1.2rem;
+
+}
+
+@media (max-width: 40rem) {
+  input{
+      width: 70vw;
+  }
+}

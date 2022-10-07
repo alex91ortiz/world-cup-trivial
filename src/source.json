@@ -1,0 +1,1484 @@
+{
+    "groupa": [
+        {
+            "player1": {
+                "name": "Catar",
+                "icon": "qa"
+            },
+            "player2": {
+                "name": "Ecuador",
+                "icon": "ec"
+            },
+            "win": "",
+            "date": "Dom 20-11"
+        },
+        {
+            "player1": {
+                "name": "Senegal",
+                "icon": "sn"
+            },
+            "player2": {
+                "name": "P.Bajos",
+                "icon": "nl"
+            },
+            "win": "",
+            "date": "Lun 21-11"
+        },
+        {
+            "player1": {
+                "name": "Catar",
+                "icon": "qa"
+            },
+            "player2": {
+                "name": "Senegal",
+                "icon": "sn"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "P.Bajos",
+                "icon": "nl"
+            },
+            "player2": {
+                "name": "Ecuador",
+                "icon": "ec"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Ecuador",
+                "icon": "ec"
+            },
+            "player2": {
+                "name": "Senegal",
+                "icon": "sn"
+            },
+            "win": "",
+            "date": "Mar 29-11"
+        },
+        {
+            "player1": {
+                "name": "P.Bajos",
+                "icon": "nl"
+            },
+            "player2": {
+                "name": "Catar",
+                "icon": "qa"
+            },
+            "win": "",
+            "date": "Mar 29-11"
+        }
+    ],
+    "groupb": [
+        {
+            "player1": {
+                "name": "Inglaterra",
+                "icon": "gb"
+            },
+            "player2": {
+                "name": "Irán",
+                "icon": "ir"
+            },
+            "win": "",
+            "date": "Lun 21-11"
+        },
+        {
+            "player1": {
+                "name": "USA",
+                "icon": "us"
+            },
+            "player2": {
+                "name": "Gales",
+                "icon": "gb-wls"
+            },
+            "win": "",
+            "date": "Lun 21-11"
+        },
+        {
+            "player1": {
+                "name": "Gales",
+                "icon": "gb-wls"
+            },
+            "player2": {
+                "name": "Irán",
+                "icon": "ir"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Inglaterra",
+                "icon": "gb"
+            },
+            "player2": {
+                "name": "USA",
+                "icon": "us"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Gales",
+                "icon": "gb-wls"
+            },
+            "player2": {
+                "name": "Inglaterra",
+                "icon": "gb"
+            },
+            "win": "",
+            "date": "Mar 29-11"
+        },
+        {
+            "player1": {
+                "name": "Irán",
+                "icon": "ir"
+            },
+            "player2": {
+                "name": "USA",
+                "icon": "us"
+            },
+            "win": "",
+            "date": "Mar 29-11"
+        }
+    ],
+    "groupc": [
+        {
+            "player1": {
+                "name": "Argentina",
+                "icon": "ar"
+            },
+            "player2": {
+                "name": "Arabia",
+                "icon": "sa"
+            },
+            "win": "",
+            "date": "Mar 22-11"
+        },
+        {
+            "player1": {
+                "name": "México",
+                "icon": "mx"
+            },
+            "player2": {
+                "name": "Polonia",
+                "icon": "pl"
+            },
+            "win": "",
+            "date": "Mar 22-11"
+        },
+        {
+            "player1": {
+                "name": "Polonia",
+                "icon": "pl"
+            },
+            "player2": {
+                "name": "Arabia",
+                "icon": "sa"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Argentina",
+                "icon": "ar"
+            },
+            "player2": {
+                "name": "México",
+                "icon": "mx"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Polonia",
+                "icon": "pl"
+            },
+            "player2": {
+                "name": "Argentina",
+                "icon": "ar"
+            },
+            "win": "",
+            "date": "Mie 30-11"
+        },
+        {
+            "player1": {
+                "name": "Arabia",
+                "icon": "sa"
+            },
+            "player2": {
+                "name": "México",
+                "icon": "mx"
+            },
+            "win": "",
+            "date": "Mie 30-11"
+        }
+    ],
+    "groupd": [
+        {
+            "player1": {
+                "name": "Dinamarca",
+                "icon": "dk"
+            },
+            "player2": {
+                "name": "Túnez",
+                "icon": "tn"
+            },
+            "win": "",
+            "date": "Mar 22-11"
+        },
+        {
+            "player1": {
+                "name": "Francia",
+                "icon": "fr"
+            },
+            "player2": {
+                "name": "Australia",
+                "icon": "au"
+            },
+            "win": "",
+            "date": "Mar 22-11"
+        },
+        {
+            "player1": {
+                "name": "Túnez",
+                "icon": "tn"
+            },
+            "player2": {
+                "name": "Australia",
+                "icon": "au"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Francia",
+                "icon": "fr"
+            },
+            "player2": {
+                "name": "Dinamarca",
+                "icon": "dk"
+            },
+            "win": "",
+            "date": "Sab 26-11"
+        },
+        {
+            "player1": {
+                "name": "Australia",
+                "icon": "au"
+            },
+            "player2": {
+                "name": "Dinamarca",
+                "icon": "dk"
+            },
+            "win": "",
+            "date": "Mie 30-11"
+        },
+        {
+            "player1": {
+                "name": "Túnez",
+                "icon": "tn"
+            },
+            "player2": {
+                "name": "Francia",
+                "icon": "fr"
+            },
+            "win": "",
+            "date": "Mie 30-11"
+        }
+    ],
+    "groupe": [
+        {
+            "player1": {
+                "name": "Alemania",
+                "icon": "de"
+            },
+            "player2": {
+                "name": "Japón",
+                "icon": "jp"
+            },
+            "win": "",
+            "date": "Mie 23-11"
+        },
+        {
+            "player1": {
+                "name": "España",
+                "icon": "es"
+            },
+            "player2": {
+                "name": "Costa Rica",
+                "icon": "cr"
+            },
+            "win": "",
+            "date": "Mie 23-11"
+        },
+        {
+            "player1": {
+                "name": "Japón",
+                "icon": "jp"
+            },
+            "player2": {
+                "name": "Costa Rica",
+                "icon": "cr"
+            },
+            "win": "",
+            "date": "Dom 27-11"
+        },
+        {
+            "player1": {
+                "name": "España",
+                "icon": "es"
+            },
+            "player2": {
+                "name": "Alemania",
+                "icon": "de"
+            },
+            "win": "",
+            "date": "Dom 27-11"
+        },
+        {
+            "player1": {
+                "name": "Japón",
+                "icon": "jp"
+            },
+            "player2": {
+                "name": "España",
+                "icon": "es"
+            },
+            "win": "",
+            "date": "Jue 1-12"
+        },
+        {
+            "player1": {
+                "name": "Costa Rica",
+                "icon": "cr"
+            },
+            "player2": {
+                "name": "Alemania",
+                "icon": "de"
+            },
+            "win": "",
+            "date": "Jue 1-12"
+        }
+    ],
+    "groupf": [
+        {
+            "player1": {
+                "name": "Marruecos",
+                "icon": "ma"
+            },
+            "player2": {
+                "name": "Coracia",
+                "icon": "hr"
+            },
+            "win": "",
+            "date": "Mie 23-11"
+        },
+        {
+            "player1": {
+                "name": "Bélgica",
+                "icon": "be"
+            },
+            "player2": {
+                "name": "Canadá",
+                "icon": "ca"
+            },
+            "win": "",
+            "date": "Mie 23-11"
+        },
+        {
+            "player1": {
+                "name": "Bélgica",
+                "icon": "be"
+            },
+            "player2": {
+                "name": "Marruecos",
+                "icon": "ma"
+            },
+            "win": "",
+            "date": "Dom 27-11"
+        },
+        {
+            "player1": {
+                "name": "Croacia",
+                "icon": "cr"
+            },
+            "player2": {
+                "name": "Canadá",
+                "icon": "ca"
+            },
+            "win": "",
+            "date": "Dom 27-11"
+        },
+        {
+            "player1": {
+                "name": "Croacia",
+                "icon": "cr"
+            },
+            "player2": {
+                "name": "Bélgica",
+                "icon": "be"
+            },
+            "win": "",
+            "date": "Jue 1-12"
+        },
+        {
+            "player1": {
+                "name": "Canadá",
+                "icon": "ca"
+            },
+            "player2": {
+                "name": "Marruecos",
+                "icon": "ma"
+            },
+            "win": "",
+            "date": "Jue 1-12"
+        }
+    ],
+    "groupg": [
+        {
+            "player1": {
+                "name": "Suiza",
+                "icon": "ch"
+            },
+            "player2": {
+                "name": "Camerún",
+                "icon": "cm"
+            },
+            "win": "",
+            "date": "Jue 24-11"
+        },
+        {
+            "player1": {
+                "name": "Brasil",
+                "icon": "br"
+            },
+            "player2": {
+                "name": "Serbia",
+                "icon": "rs"
+            },
+            "win": "",
+            "date": "Jue 24-11"
+        },
+        {
+            "player1": {
+                "name": "Camerún",
+                "icon": "cm"
+            },
+            "player2": {
+                "name": "Serbia",
+                "icon": "rs"
+            },
+            "win": "",
+            "date": "Lun 28-11"
+        },
+        {
+            "player1": {
+                "name": "Brasil",
+                "icon": "br"
+            },
+            "player2": {
+                "name": "Suiza",
+                "icon": "ch"
+            },
+            "win": "",
+            "date": "Lun 28-11"
+        },
+        {
+            "player1": {
+                "name": "Serbia",
+                "icon": "rs"
+            },
+            "player2": {
+                "name": "Suiza",
+                "icon": "ch"
+            },
+            "win": "",
+            "date": "Vie 2-12"
+        },
+        {
+            "player1": {
+                "name": "Camerún",
+                "icon": "cm"
+            },
+            "player2": {
+                "name": "Brasil",
+                "icon": "br"
+            },
+            "win": "",
+            "date": "Vie 2-12"
+        }
+    ],
+    "grouph": [
+        {
+            "player1": {
+                "name": "Uruguay",
+                "icon": "uy"
+            },
+            "player2": {
+                "name": "Corea",
+                "icon": "kr"
+            },
+            "win": "",
+            "date": "Jue 24-11"
+        },
+        {
+            "player1": {
+                "name": "Portugal",
+                "icon": "pt"
+            },
+            "player2": {
+                "name": "Ghana",
+                "icon": "gh"
+            },
+            "win": "",
+            "date": "Jue 24-11"
+        },
+        {
+            "player1": {
+                "name": "Corea",
+                "icon": "kr"
+            },
+            "player2": {
+                "name": "Ghana",
+                "icon": "gh"
+            },
+            "win": "",
+            "date": "Lun 28-11"
+        },
+        {
+            "player1": {
+                "name": "Portugal",
+                "icon": "pt"
+            },
+            "player2": {
+                "name": "Uruguay",
+                "icon": "uy"
+            },
+            "win": "",
+            "date": "Lun 28-11"
+        },
+        {
+            "player1": {
+                "name": "Ghana",
+                "icon": "gh"
+            },
+            "player2": {
+                "name": "Uruguay",
+                "icon": "uy"
+            },
+            "win": "",
+            "date": "Vie 2-12"
+        },
+        {
+            "player1": {
+                "name": "Corea",
+                "icon": "kr"
+            },
+            "player2": {
+                "name": "Portugal",
+                "icon": "pt"
+            },
+            "win": "",
+            "date": "Vie 2-12"
+        }
+    ],
+    "Q8": {
+        "groupa": [
+            {
+                "player": "Catar",
+                "icon": "qa",
+                "win": "0"
+            },
+            {
+                "player": "Ecuador",
+                "icon": "ec",
+                "win": "0"
+            },
+            {
+                "player": "Senegal",
+                "icon": "sn",
+                "win": "0"
+            },
+            {
+                "player": "P.Bajos",
+                "icon": "nl",
+                "win": "0"
+            }
+        ],
+        "groupb": [
+            {
+                "player": "Inglaterra",
+                "icon": "gb",
+                "win": "0"
+            },
+            {
+                "player": "Irán",
+                "icon": "ir",
+                "win": "0"
+            },
+            {
+                "player": "USA",
+                "icon": "us",
+                "win": "0"
+            },
+            {
+                "player": "Gales",
+                "icon": "gb-wls",
+                "win": "0"
+            }
+        ],
+        "groupc": [
+            {
+                "player": "Argentina",
+                "icon": "ar",
+                "win": "0"
+            },
+            {
+                "player": "Arabia",
+                "icon": "sa",
+                "win": "0"
+            },
+            {
+                "player": "México",
+                "icon": "mx",
+                "win": "0"
+            },
+            {
+                "player": "Polonia",
+                "icon": "pl",
+                "win": "0"
+            }
+        ],
+        "groupd": [
+            {
+                "player": "Francia",
+                "icon": "fr",
+                "win": "0"
+            },
+            {
+                "player": "Australia",
+                "icon": "au",
+                "win": "0"
+            },
+            {
+                "player": "Dinamarca",
+                "icon": "dk",
+                "win": "0"
+            },
+            {
+                "player": "Túnez",
+                "icon": "tn",
+                "win": "0"
+            }
+        ],
+        "groupe": [
+            {
+                "player": "España",
+                "icon": "es",
+                "win": "0"
+            },
+            {
+                "player": "Costa Rica",
+                "icon": "cr",
+                "win": "0"
+            },
+            {
+                "player": "Alemania",
+                "icon": "de",
+                "win": "0"
+            },
+            {
+                "player": "Japón",
+                "icon": "jp",
+                "win": "0"
+            }
+        ],
+        "groupf": [
+            {
+                "player": "Bélgica",
+                "icon": "be",
+                "win": "0"
+            },
+            {
+                "player": "Canadá",
+                "icon": "ca",
+                "win": "0"
+            },
+            {
+                "player": "Marruecos",
+                "icon": "ma",
+                "win": "0"
+            },
+            {
+                "player": "Coracia",
+                "icon": "hr",
+                "win": "0"
+            }
+        ],
+        "groupg": [
+            {
+                "player": "Brasil",
+                "icon": "br",
+                "win": "0"
+            },
+            {
+                "player": "Serbia",
+                "icon": "rs",
+                "win": "0"
+            },
+            {
+                "player": "Suiza",
+                "icon": "ch",
+                "win": "0"
+            },
+            {
+                "player": "Camerún",
+                "icon": "cm",
+                "win": "0"
+            }
+        ],
+        "grouph": [
+            {
+                "player": "Portugal",
+                "icon": "pt",
+                "win": "0"
+            },
+            {
+                "player": "Ghana",
+                "icon": "gh",
+                "win": "0"
+            },
+            {
+                "player": "Uruguay",
+                "icon": "uy",
+                "win": "0"
+            },
+            {
+                "player": "Corea",
+                "icon": "kr",
+                "win": "0"
+            }
+        ]
+    },
+    "Q4": {
+        "groupa": [
+            {
+                "player": "Catar",
+                "icon": "qa",
+                "win": "0"
+            },
+            {
+                "player": "Ecuador",
+                "icon": "ec",
+                "win": "0"
+            },
+            {
+                "player": "Senegal",
+                "icon": "sn",
+                "win": "0"
+            },
+            {
+                "player": "P.Bajos",
+                "icon": "nl",
+                "win": "0"
+            }
+        ],
+        "groupb": [
+            {
+                "player": "Inglaterra",
+                "icon": "gb",
+                "win": "0"
+            },
+            {
+                "player": "Irán",
+                "icon": "ir",
+                "win": "0"
+            },
+            {
+                "player": "USA",
+                "icon": "us",
+                "win": "0"
+            },
+            {
+                "player": "Gales",
+                "icon": "gb-wls",
+                "win": "0"
+            }
+        ],
+        "groupc": [
+            {
+                "player": "Argentina",
+                "icon": "ar",
+                "win": "0"
+            },
+            {
+                "player": "Arabia",
+                "icon": "sa",
+                "win": "0"
+            },
+            {
+                "player": "México",
+                "icon": "mx",
+                "win": "0"
+            },
+            {
+                "player": "Polonia",
+                "icon": "pl",
+                "win": "0"
+            }
+        ],
+        "groupd": [
+            {
+                "player": "Francia",
+                "icon": "fr",
+                "win": "0"
+            },
+            {
+                "player": "Australia",
+                "icon": "au",
+                "win": "0"
+            },
+            {
+                "player": "Dinamarca",
+                "icon": "dk",
+                "win": "0"
+            },
+            {
+                "player": "Túnez",
+                "icon": "tn",
+                "win": "0"
+            }
+        ],
+        "groupe": [
+            {
+                "player": "España",
+                "icon": "es",
+                "win": "0"
+            },
+            {
+                "player": "Costa Rica",
+                "icon": "cr",
+                "win": "0"
+            },
+            {
+                "player": "Alemania",
+                "icon": "de",
+                "win": "0"
+            },
+            {
+                "player": "Japón",
+                "icon": "jp",
+                "win": "0"
+            }
+        ],
+        "groupf": [
+            {
+                "player": "Bélgica",
+                "icon": "be",
+                "win": "0"
+            },
+            {
+                "player": "Canadá",
+                "icon": "ca",
+                "win": "0"
+            },
+            {
+                "player": "Marruecos",
+                "icon": "ma",
+                "win": "0"
+            },
+            {
+                "player": "Coracia",
+                "icon": "hr",
+                "win": "0"
+            }
+        ],
+        "groupg": [
+            {
+                "player": "Brasil",
+                "icon": "br",
+                "win": "0"
+            },
+            {
+                "player": "Serbia",
+                "icon": "rs",
+                "win": "0"
+            },
+            {
+                "player": "Suiza",
+                "icon": "ch",
+                "win": "0"
+            },
+            {
+                "player": "Camerún",
+                "icon": "cm",
+                "win": "0"
+            }
+        ],
+        "grouph": [
+            {
+                "player": "Portugal",
+                "icon": "pt",
+                "win": "0"
+            },
+            {
+                "player": "Ghana",
+                "icon": "gh",
+                "win": "0"
+            },
+            {
+                "player": "Uruguay",
+                "icon": "uy",
+                "win": "0"
+            },
+            {
+                "player": "Corea",
+                "icon": "kr",
+                "win": "0"
+            }
+        ]
+    },
+    "Q2": {
+        "groupa": [
+            {
+                "player": "Catar",
+                "icon": "qa",
+                "win": "0"
+            },
+            {
+                "player": "Ecuador",
+                "icon": "ec",
+                "win": "0"
+            },
+            {
+                "player": "Senegal",
+                "icon": "sn",
+                "win": "0"
+            },
+            {
+                "player": "P.Bajos",
+                "icon": "nl",
+                "win": "0"
+            }
+        ],
+        "groupb": [
+            {
+                "player": "Inglaterra",
+                "icon": "gb",
+                "win": "0"
+            },
+            {
+                "player": "Irán",
+                "icon": "ir",
+                "win": "0"
+            },
+            {
+                "player": "USA",
+                "icon": "us",
+                "win": "0"
+            },
+            {
+                "player": "Gales",
+                "icon": "gb-wls",
+                "win": "0"
+            }
+        ],
+        "groupc": [
+            {
+                "player": "Argentina",
+                "icon": "ar",
+                "win": "0"
+            },
+            {
+                "player": "Arabia",
+                "icon": "sa",
+                "win": "0"
+            },
+            {
+                "player": "México",
+                "icon": "mx",
+                "win": "0"
+            },
+            {
+                "player": "Polonia",
+                "icon": "pl",
+                "win": "0"
+            }
+        ],
+        "groupd": [
+            {
+                "player": "Francia",
+                "icon": "fr",
+                "win": "0"
+            },
+            {
+                "player": "Australia",
+                "icon": "au",
+                "win": "0"
+            },
+            {
+                "player": "Dinamarca",
+                "icon": "dk",
+                "win": "0"
+            },
+            {
+                "player": "Túnez",
+                "icon": "tn",
+                "win": "0"
+            }
+        ],
+        "groupe": [
+            {
+                "player": "España",
+                "icon": "es",
+                "win": "0"
+            },
+            {
+                "player": "Costa Rica",
+                "icon": "cr",
+                "win": "0"
+            },
+            {
+                "player": "Alemania",
+                "icon": "de",
+                "win": "0"
+            },
+            {
+                "player": "Japón",
+                "icon": "jp",
+                "win": "0"
+            }
+        ],
+        "groupf": [
+            {
+                "player": "Bélgica",
+                "icon": "be",
+                "win": "0"
+            },
+            {
+                "player": "Canadá",
+                "icon": "ca",
+                "win": "0"
+            },
+            {
+                "player": "Marruecos",
+                "icon": "ma",
+                "win": "0"
+            },
+            {
+                "player": "Coracia",
+                "icon": "hr",
+                "win": "0"
+            }
+        ],
+        "groupg": [
+            {
+                "player": "Brasil",
+                "icon": "br",
+                "win": "0"
+            },
+            {
+                "player": "Serbia",
+                "icon": "rs",
+                "win": "0"
+            },
+            {
+                "player": "Suiza",
+                "icon": "ch",
+                "win": "0"
+            },
+            {
+                "player": "Camerún",
+                "icon": "cm",
+                "win": "0"
+            }
+        ],
+        "grouph": [
+            {
+                "player": "Portugal",
+                "icon": "pt",
+                "win": "0"
+            },
+            {
+                "player": "Ghana",
+                "icon": "gh",
+                "win": "0"
+            },
+            {
+                "player": "Uruguay",
+                "icon": "uy",
+                "win": "0"
+            },
+            {
+                "player": "Corea",
+                "icon": "kr",
+                "win": "0"
+            }
+        ]
+    },
+    "Q1": {
+        "groupa": [
+            {
+                "player": "Catar",
+                "icon": "qa",
+                "win": "0"
+            },
+            {
+                "player": "Ecuador",
+                "icon": "ec",
+                "win": "0"
+            },
+            {
+                "player": "Senegal",
+                "icon": "sn",
+                "win": "0"
+            },
+            {
+                "player": "P.Bajos",
+                "icon": "nl",
+                "win": "0"
+            }
+        ],
+        "groupb": [
+            {
+                "player": "Inglaterra",
+                "icon": "gb",
+                "win": "0"
+            },
+            {
+                "player": "Irán",
+                "icon": "ir",
+                "win": "0"
+            },
+            {
+                "player": "USA",
+                "icon": "us",
+                "win": "0"
+            },
+            {
+                "player": "Gales",
+                "icon": "gb-wls",
+                "win": "0"
+            }
+        ],
+        "groupc": [
+            {
+                "player": "Argentina",
+                "icon": "ar",
+                "win": "0"
+            },
+            {
+                "player": "Arabia",
+                "icon": "sa",
+                "win": "0"
+            },
+            {
+                "player": "México",
+                "icon": "mx",
+                "win": "0"
+            },
+            {
+                "player": "Polonia",
+                "icon": "pl",
+                "win": "0"
+            }
+        ],
+        "groupd": [
+            {
+                "player": "Francia",
+                "icon": "fr",
+                "win": "0"
+            },
+            {
+                "player": "Australia",
+                "icon": "au",
+                "win": "0"
+            },
+            {
+                "player": "Dinamarca",
+                "icon": "dk",
+                "win": "0"
+            },
+            {
+                "player": "Túnez",
+                "icon": "tn",
+                "win": "0"
+            }
+        ],
+        "groupe": [
+            {
+                "player": "España",
+                "icon": "es",
+                "win": "0"
+            },
+            {
+                "player": "Costa Rica",
+                "icon": "cr",
+                "win": "0"
+            },
+            {
+                "player": "Alemania",
+                "icon": "de",
+                "win": "0"
+            },
+            {
+                "player": "Japón",
+                "icon": "jp",
+                "win": "0"
+            }
+        ],
+        "groupf": [
+            {
+                "player": "Bélgica",
+                "icon": "be",
+                "win": "0"
+            },
+            {
+                "player": "Canadá",
+                "icon": "ca",
+                "win": "0"
+            },
+            {
+                "player": "Marruecos",
+                "icon": "ma",
+                "win": "0"
+            },
+            {
+                "player": "Coracia",
+                "icon": "hr",
+                "win": "0"
+            }
+        ],
+        "groupg": [
+            {
+                "player": "Brasil",
+                "icon": "br",
+                "win": "0"
+            },
+            {
+                "player": "Serbia",
+                "icon": "rs",
+                "win": "0"
+            },
+            {
+                "player": "Suiza",
+                "icon": "ch",
+                "win": "0"
+            },
+            {
+                "player": "Camerún",
+                "icon": "cm",
+                "win": "0"
+            }
+        ],
+        "grouph": [
+            {
+                "player": "Portugal",
+                "icon": "pt",
+                "win": "0"
+            },
+            {
+                "player": "Ghana",
+                "icon": "gh",
+                "win": "0"
+            },
+            {
+                "player": "Uruguay",
+                "icon": "uy",
+                "win": "0"
+            },
+            {
+                "player": "Corea",
+                "icon": "kr",
+                "win": "0"
+            }
+        ]
+    },
+    "Q0": {
+        "groupa": [
+            {
+                "player": "Catar",
+                "icon": "qa",
+                "win": "0"
+            },
+            {
+                "player": "Ecuador",
+                "icon": "ec",
+                "win": "0"
+            },
+            {
+                "player": "Senegal",
+                "icon": "sn",
+                "win": "0"
+            },
+            {
+                "player": "P.Bajos",
+                "icon": "nl",
+                "win": "0"
+            }
+        ],
+        "groupb": [
+            {
+                "player": "Inglaterra",
+                "icon": "gb",
+                "win": "0"
+            },
+            {
+                "player": "Irán",
+                "icon": "ir",
+                "win": "0"
+            },
+            {
+                "player": "USA",
+                "icon": "us",
+                "win": "0"
+            },
+            {
+                "player": "Gales",
+                "icon": "gb-wls",
+                "win": "0"
+            }
+        ],
+        "groupc": [
+            {
+                "player": "Argentina",
+                "icon": "ar",
+                "win": "0"
+            },
+            {
+                "player": "Arabia",
+                "icon": "sa",
+                "win": "0"
+            },
+            {
+                "player": "México",
+                "icon": "mx",
+                "win": "0"
+            },
+            {
+                "player": "Polonia",
+                "icon": "pl",
+                "win": "0"
+            }
+        ],
+        "groupd": [
+            {
+                "player": "Francia",
+                "icon": "fr",
+                "win": "0"
+            },
+            {
+                "player": "Australia",
+                "icon": "au",
+                "win": "0"
+            },
+            {
+                "player": "Dinamarca",
+                "icon": "dk",
+                "win": "0"
+            },
+            {
+                "player": "Túnez",
+                "icon": "tn",
+                "win": "0"
+            }
+        ],
+        "groupe": [
+            {
+                "player": "España",
+                "icon": "es",
+                "win": "0"
+            },
+            {
+                "player": "Costa Rica",
+                "icon": "cr",
+                "win": "0"
+            },
+            {
+                "player": "Alemania",
+                "icon": "de",
+                "win": "0"
+            },
+            {
+                "player": "Japón",
+                "icon": "jp",
+                "win": "0"
+            }
+        ],
+        "groupf": [
+            {
+                "player": "Bélgica",
+                "icon": "be",
+                "win": "0"
+            },
+            {
+                "player": "Canadá",
+                "icon": "ca",
+                "win": "0"
+            },
+            {
+                "player": "Marruecos",
+                "icon": "ma",
+                "win": "0"
+            },
+            {
+                "player": "Coracia",
+                "icon": "hr",
+                "win": "0"
+            }
+        ],
+        "groupg": [
+            {
+                "player": "Brasil",
+                "icon": "br",
+                "win": "0"
+            },
+            {
+                "player": "Serbia",
+                "icon": "rs",
+                "win": "0"
+            },
+            {
+                "player": "Suiza",
+                "icon": "ch",
+                "win": "0"
+            },
+            {
+                "player": "Camerún",
+                "icon": "cm",
+                "win": "0"
+            }
+        ],
+        "grouph": [
+            {
+                "player": "Portugal",
+                "icon": "pt",
+                "win": "0"
+            },
+            {
+                "player": "Ghana",
+                "icon": "gh",
+                "win": "0"
+            },
+            {
+                "player": "Uruguay",
+                "icon": "uy",
+                "win": "0"
+            },
+            {
+                "player": "Corea",
+                "icon": "kr",
+                "win": "0"
+            }
+        ]
+    }
+}
